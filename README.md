@@ -8,7 +8,7 @@ This project analyzes a dataset of company layoffs, aiming to identify trends an
 The data covers layoffs from November-2020 to May-2024. We'll explore how layoffs vary across industries, locations, and time.
 
 ## Data Description
-The layoffs.csv file in the data directory contains the dataset used in this
+The layoffs.xlsx file in the data directory contains the dataset used in this
 project.
 Columns:
 Company Name: Name of the company experiencing layoffs.
