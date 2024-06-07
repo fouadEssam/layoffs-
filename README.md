@@ -11,9 +11,9 @@ The data covers layoffs from November-2020 to May-2024. We'll explore how layoff
 The layoffs.csv file in the data directory contains the dataset used in this
 project.
 Columns:
- Company Name: Name of the company experiencing layoffs.
- Location: Geographic location (city, state, country) of the layoffs.
- Industry: Industry sector of the company (e.g., technology, finance,
+Company Name: Name of the company experiencing layoffs.
+Location: Geographic location (city, state, country) of the layoffs.
+Industry: Industry sector of the company (e.g., technology, finance,
 healthcare).
 Laid-Off Counts: Number of employees laid off.
 Date: Date the layoffs occurred (format: YYYY-MM-DD).
@@ -35,6 +35,28 @@ Generate cross-tabulations to explore relationships between variables:
 layoffs by industry and location (using pivot tables).
 Layoffs by company .
 ## Visualizations:
-Bar charts to compare layoffs by industry, location:
-![](ladioff by country.jpg)
-![](ladioff by industry.jpg)
+-Count of laidoff emplyee: 
+
+
+![](count_of_laidoff_employee.png)       
+
+-Bar charts to compare layoffs by industry, location:
+
+
+![](ladioff_by_industry.png)                    ![](ladioff_by_country.png)
+
+-Line charts to analyze trends in layoffs over time:
+
+![](Average_of_Laid_Off_Count_by_Year.png)
+
+-Line charts to analyze trends in raised funds in a company compars to ladioffs employee by the same company:
+
+
+![](relationship_between_funds_and_laidoffs.png) 
+
+
+
+
+
+
+
