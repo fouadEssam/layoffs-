@@ -27,11 +27,14 @@ Percentage: Percentage of the workforce laid off
 -Descriptive Statistics:
 Calculate summary statistics for numeric columns (Laid-Off Counts,
 possibly Percentage):  Mean, median, standard deviation, minimum, and maximum values. Use functions like AVERAGE, MEDIAN, STDEV, MIN, and MAX.
+
 -Frequency Tables and Cross-Tabulations:
 Create frequency tables to understand the distribution of layoffs by:
-Industry (using COUNTIF or a pivot table).
-Location (city, state, country, using pivot tables or conditional formatting).
+
+Industry (using  pivot table).
+Location (city, state, country, using pivot tables).
 Generate cross-tabulations to explore relationships between variables:
+
 layoffs by industry and location (using pivot tables).
 Layoffs by company .
 ## Visualizations:
