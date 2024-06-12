@@ -21,17 +21,17 @@ Percentage: Percentage of the workforce laid off
 ## Data Cleaning Steps:
 -Identify Missing Values:
 
-![](Identify_Missing_Values.jpg)
+![](Identify_Missing_Values.png)
 
 -Check Data Types and Formatting:
-![](Check_Data_Types_and_Formatting.jpg)
+![](Check_Data_Types_and_Formatting.png)
 
 - Check spelliing mistakes and inconsistencies
-- 
-![](Check_Spelling.jpg)
+  
+![](Check_Spelling.png)
 - remove Duplicates Valus in Company Column:
-- 
-![](remove_duplicate.jpg)
+ 
+![](remove_duplicate.png)
 ## Exploratory Data Analysis (EDA) Steps:
 -Descriptive Statistics:
 Calculate summary statistics for numeric columns (Laid-Off Counts,
@@ -44,7 +44,7 @@ Industry,Location (city, state, country).
 Generate cross-tabulations to explore relationships between variables:
 layoffs by industry, location and Layoffs by company.
 
-![](EDA.jpg)
+![](EDA.png)
 
 ## Visualizations:
 -Count of laidoff emplyee: 
