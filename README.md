@@ -24,14 +24,20 @@ Percentage: Percentage of the workforce laid off
 ![](Identify_Missing_Values.png)
 
 -Check Data Types and Formatting:
+
+
 ![](Check_Data_Types_and_Formatting.png)
 
 - Check spelliing mistakes and inconsistencies
   
 ![](Check_Spelling.png)
+
+
 - remove Duplicates Valus in Company Column:
  
 ![](remove_duplicate.png)
+
+
 ## Exploratory Data Analysis (EDA) Steps:
 -Descriptive Statistics:
 Calculate summary statistics for numeric columns (Laid-Off Counts,
