@@ -19,10 +19,19 @@ Laid-Off Counts: Number of employees laid off.
 Date: Date the layoffs occurred (format: YYYY-MM-DD).
 Percentage: Percentage of the workforce laid off 
 ## Data Cleaning Steps:
--Identify Missing Values by Apply filters to my data to quickly find cells that are empty or have specific error values like N/A then remove them.
--Check Data Types and Formatting
+-Identify Missing Values:
+
+![](Identify_Missing_Values.jpg)
+
+-Check Data Types and Formatting:
+![](Check_Data_Types_and_Formatting.jpg)
+
 - Check spelliing mistakes and inconsistencies
-- remove Duplicates Valus in Company Column by Useing conditional formatting to highlight cells that are duplicated
+- 
+![](Check_Spelling.jpg)
+- remove Duplicates Valus in Company Column:
+- 
+![](remove_duplicate.jpg)
 ## Exploratory Data Analysis (EDA) Steps:
 -Descriptive Statistics:
 Calculate summary statistics for numeric columns (Laid-Off Counts,
@@ -31,12 +40,12 @@ possibly Percentage):  Mean, median, standard deviation, minimum, and maximum va
 -Frequency Tables and Cross-Tabulations:
 Create frequency tables to understand the distribution of layoffs by:
 
-Industry (using  pivot table).
-Location (city, state, country, using pivot tables).
+Industry,Location (city, state, country).
 Generate cross-tabulations to explore relationships between variables:
+layoffs by industry, location and Layoffs by company.
 
-layoffs by industry and location (using pivot tables).
-Layoffs by company .
+![](EDA.jpg)
+
 ## Visualizations:
 -Count of laidoff emplyee: 
 
