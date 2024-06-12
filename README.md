@@ -1,4 +1,4 @@
-# layoffs Anlysis Project
+# layoffs Analysis  Project
 ![](layoffs.jpg)
 
 
